@@ -8,4 +8,6 @@ echo "Rahul: DevOps Wale bhaiya , hum toh comment karenge"
 
 echo "TWS: Toh Rahul, like bhi kar do"
 
-echo "Rahul: I all ready like this video"
+echo "Rahul: already like kiya he video ko"
+
+exho "TWS: Thank You!!!"
