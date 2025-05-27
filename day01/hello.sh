@@ -10,4 +10,4 @@ echo "TWS: Toh Rahul, like bhi kar do"
 
 echo "Rahul: already like kiya he video ko"
 
-exho "TWS: Thank You!!!"
+echo "TWS: Thank You!!!"
